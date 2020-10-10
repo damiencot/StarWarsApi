@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">StarWarsApi</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="createPeople_title">People name ?</string>
+    <string name="createPeople_positive">Create People</string>
+    <string name="createPeople_negative">Cancel</string>
+    <string name="createPeople_peopleHint">Luke Skywalker, Han Solo...</string>
+    <string name="menu_add_people">Add People</string>
+</resources>
